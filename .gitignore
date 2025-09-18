@@ -1,3 +1,14 @@
+# caches
+.DS_Store
+__pycache__/
+.idea/
+# notes
+notes/
+logs/
+
+
 .claude
+
 CLAUDE.md
+
 AGENTS.md
