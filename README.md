@@ -30,7 +30,7 @@ No runtime guarantees; code is written like a personal project.
 
 - \Logged: walk â€” evening
 - \Streak for walk: 1
-- ‚5-09-27 0
+- 5-09-27 0
 2025-09-28 0
 2025-09-29 0
 2025-09-30 0
